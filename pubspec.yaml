@@ -1,0 +1,18 @@
+name: riverpod_async_value_widget
+description: A new Flutter package project.
+version: 0.0.1
+homepage: https://github.com/netsells/riverpod_async_value_widget
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  netsells_flutter_analysis: ^3.0.0
