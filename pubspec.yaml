@@ -1,5 +1,5 @@
 name: riverpod_async_value_widget
-description: A new Flutter package project.
+description: Simplify the display of AsyncValues from Riverpod
 version: 0.0.1
 homepage: https://github.com/netsells/riverpod_async_value_widget
 
