@@ -1,6 +1,6 @@
 name: riverpod_async_value_widget
 description: Simplify the display of AsyncValues from Riverpod
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/netsells/riverpod_async_value_widget
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_riverpod: ^1.0.4
+  flutter_riverpod: ^2.0.2
 
 dev_dependencies:
   flutter_test:
